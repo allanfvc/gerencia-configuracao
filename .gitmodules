@@ -1,0 +1,4 @@
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:allanfvc/gc-ansible.git
+	branch = develop
