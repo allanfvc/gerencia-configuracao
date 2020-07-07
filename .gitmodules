@@ -2,3 +2,7 @@
 	path = ansible
 	url = git@github.com:allanfvc/gc-ansible.git
 	branch = develop
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:allanfvc/gc-terraform.git
+	branch = develop
